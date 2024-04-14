@@ -1,8 +1,7 @@
 Here is Food-Recipe! This is a React Native project aimed at providing a versatile and feature-rich mobile application. Whether you're developing for iOS, Android, or the web, Food-Recipe has you covered with its cross-platform capabilities.
 
-![1](https://github.com/HoseinFirp/Food-Recipe/assets/130319454/2c3c857c-1cc5-4728-a765-836f9f50622d)
-![2](https://github.com/HoseinFirp/Food-Recipe/assets/130319454/31d38d87-3424-4aa4-9ade-6d1be2a94cf7)
-![3](https://github.com/HoseinFirp/Food-Recipe/assets/130319454/5386157b-3ef9-4597-889b-197336d3279f)
+![asli](https://github.com/HoseinFirp/Food-Recipe/assets/130319454/758bab40-3e43-4f9a-832e-b2c03dc907fd)
+
 
 Features
 Cross-Platform Compatibility: Built with React Native and Expo, Food-Recipe offers seamless performance on iOS, Android, and web platforms.
